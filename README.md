@@ -14,7 +14,7 @@ MK   : Sains Data
 
    ![image](https://user-images.githubusercontent.com/80516363/194687018-02549958-d74f-494a-846b-be214c9a6660.png)
 
-4. Verifikasi akun Anda. Pilih tombol Mulai Puzzle untuk melakukannya, lalu ikuti perintah.
+4. Verifikasi akun Anda. dengan menyelesaikan Puzzle
 5. Setelah Memverifikasi akun Anda, pilih tombol create account.
 6. Selanjutnya, GitHub mengirimkan kode ke alamat email Anda. Ketik kode tersebut dalam dialog Masukkan kode , lalu tekan Enter.
 7. GitHub akan mengajukan beberapa pertanyaan untuk membantu menyesuaikan pengalaman Anda. Pilih jawaban yang berlaku untuk Anda dalam dialog berikut:

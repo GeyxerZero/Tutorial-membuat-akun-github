@@ -16,8 +16,8 @@ MK   : Sains Data
 
 4. Verifikasi akun Anda. Pilih tombol Mulai Puzzle untuk melakukannya, lalu ikuti perintah.
 5. Setelah Memverifikasi akun Anda, pilih tombol create account.
-6. Selanjutnya, GitHub mengirimkan kode peluncuran ke alamat email Anda. Ketik kode peluncuran tersebut dalam dialog Masukkan kode , lalu tekan Enter.
-7. GitHub mengajukan beberapa pertanyaan untuk membantu menyesuaikan pengalaman Anda. Pilih jawaban yang berlaku untuk Anda dalam dialog berikut:
+6. Selanjutnya, GitHub mengirimkan kode ke alamat email Anda. Ketik kode tersebut dalam dialog Masukkan kode , lalu tekan Enter.
+7. GitHub akan mengajukan beberapa pertanyaan untuk membantu menyesuaikan pengalaman Anda. Pilih jawaban yang berlaku untuk Anda dalam dialog berikut:
    * Berapa banyak anggota tim yang akan bekerja dengan Anda?
    * Fitur spesifik apa yang Anda minati untuk digunakan?
 8. akun github anda sudah bisa di pakai :)
